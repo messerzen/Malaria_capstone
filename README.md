@@ -92,13 +92,14 @@ Feel free to change the directory name
 
 ## Author
 
-- ** Paulo Henrique Zen Messershmidt ** - [LinkedIn](https://www.linkedin.com/in/paulo-henrique-zen-messerschmidt-35581661/)
+- **Paulo Henrique Zen Messershmidt** - [LinkedIn](https://www.linkedin.com/in/paulo-henrique-zen-messerschmidt-35581661/)
+
 email: phzm.engmec@gmail.com
 
 ## Built with
 - [Keras Librabry](https://keras.io/)
 - [Google Colaboratory](https://colab.research.google.com) - Virutal Enviroment
 
-# Acknowledgments
+## Acknowledgments
 -  [U.S. National Library of Medicine (NIH)](https://www.nlm.nih.gov/) for sharing this dataset.
 
